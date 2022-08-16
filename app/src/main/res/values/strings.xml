@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Educational App</string>
+    <string name="navigation_drawer_open">drawer Open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="android_studio">android Studio</string>
+    <string name="android_studio_android_com">androidstudio.com</string>
+    <string name="title_activity_bottom_nevigation">BottomNevigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

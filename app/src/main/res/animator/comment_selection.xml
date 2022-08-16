@@ -1,0 +1,18 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_activated="true">
+        <objectAnimator
+            android:propertyName="translationZ"
+            android:valueTo="@dimen/z_card"
+            android:duration="2000"
+            android:interpolator="@android:interpolator/fast_out_slow_in" />
+    </item>
+
+    <item>
+        <objectAnimator
+            android:propertyName="translationZ"
+            android:valueTo="0dp"
+            android:duration="2000"
+            android:interpolator="@android:interpolator/fast_out_slow_in" />
+    </item>
+</selector>

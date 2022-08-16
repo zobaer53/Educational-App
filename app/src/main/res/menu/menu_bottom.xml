@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item0"
+        android:title="All Course"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/item1"
+        android:title="Development"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title="IT Sector"
+        android:icon="@drawable/ic_home"/>
+
+</menu>

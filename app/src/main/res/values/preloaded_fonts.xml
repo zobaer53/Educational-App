@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alfa_slab_one</item>
+        <item>@font/asset</item>
+        <item>@font/bangers</item>
+        <item>@font/diplomata</item>
+        <item>@font/fascinate</item>
+        <item>@font/gravitas_one</item>
+        <item>@font/holtwood_one_sc</item>
+        <item>@font/monofett</item>
+        <item>@font/roboto_black</item>
+        <item>@font/roboto_thin</item>
+        <item>@font/unlock</item>
+    </array>
+</resources>

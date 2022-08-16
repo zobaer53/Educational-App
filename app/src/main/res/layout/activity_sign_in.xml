@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.SignIn">
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:lottie_autoPlay="true"
+
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/one" />
+
+    <LinearLayout
+        android:id="@+id/liniarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/animationView"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+
+        android:background="@drawable/edit_text"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <com.hbb20.CountryCodePicker
+            android:id="@+id/ccpId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:ccp_arrowSize="20dp"
+            app:ccp_autoDetectCountry="true"
+            app:ccp_clickable="true"
+            app:ccp_countryAutoDetectionPref="SIM_ONLY"
+            app:ccp_defaultNameCode="IN"
+            app:ccp_rememberLastSelection="true"
+            app:ccp_selectionMemoryTag="signupCCP"
+            app:ccp_showArrow="false"
+            app:ccp_showFlag="true"
+            app:ccp_showNameCode="false"
+            app:ccp_showPhoneCode="true"
+            app:ccp_textGravity="RIGHT"
+            app:ccp_textSize="20sp" />
+
+        <EditText
+            android:id="@+id/phone_no"
+            android:layout_width="320dp"
+            android:layout_height="45dp"
+            android:hint="Mobile No"
+            android:inputType="textNoSuggestions|phone"
+            android:maxLength="15"
+            android:padding="5dp"
+            android:textAlignment="viewStart"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/send_otp"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:layout_below="@id/liniarLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_text"
+        android:text="Send Otp"
+        android:textSize="20sp" />
+
+
+
+
+</RelativeLayout>

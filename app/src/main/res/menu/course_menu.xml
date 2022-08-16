@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+
+    android:id="@+id/courseMenuCart"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_shopping_cart"
+        android:title="Cart"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/courseMenuHelp"
+        android:orderInCategory="100"
+        android:icon="@drawable/help_icon"
+        android:title="Help"
+        app:showAsAction="ifRoom" />
+</menu>
