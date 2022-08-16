@@ -176,7 +176,7 @@ public class CartActivity extends AppCompatActivity implements PaymentResultList
          * Instantiate Checkout
          */
         Checkout checkout = new Checkout();
-        checkout.setKeyID("rzp_test_pZQzSudJQ5W93G");
+        checkout.setKeyID("ivmfZMyf5GXHytM6YcY");
 
         /**
          * Set your logo here

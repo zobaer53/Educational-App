@@ -448,7 +448,8 @@ public class Profile extends AppCompatActivity implements AdapterView.OnItemSele
                     addressTextView.setText(snapshot.child("address").getValue().toString());
                     if (snapshot.child("uimage").exists()) {
 
-                        Glide.with(getApplicationContext()).load(snapshot.child("uimage").getValue().toString()).into(profile);
+                        Glide.with(getApplicationContext()).load(snapshot.child("uimage").getValue().toString())
+                                .fitCenter().into(profile);
                     }
                 }
             }
