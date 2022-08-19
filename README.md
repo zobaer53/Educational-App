@@ -12,7 +12,7 @@ Features:
 4. App contains advanced tutorials like web development, mobile development, etc
 5. Students can buy tutorials
 6. RazorPay payment gateway integrated
-7. Admin can easily modify app from firebase with any need for an update
+7. Admin can easily modify app from firebase without any need for an update
 
 # Video
 https://user-images.githubusercontent.com/61627836/184885220-c36026d0-b05d-471d-a506-5c96fa02d778.mp4
