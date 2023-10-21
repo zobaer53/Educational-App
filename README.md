@@ -17,20 +17,33 @@ Features:
 # Video
 https://user-images.githubusercontent.com/61627836/184885220-c36026d0-b05d-471d-a506-5c96fa02d778.mp4
 
-# ScreenShoots
-<p float="left">
- <img src="https://github.com/zobaer53/Educational-App/blob/master/1.jpg" alt="Girl in a jacket" width="150" height="300">
-  <img src="https://github.com/zobaer53/Educational-App/blob/master/2.jpg" alt="Girl in a jacket" width="150" height="300">
-   <img src="https://github.com/zobaer53/Educational-App/blob/master/3.jpg" alt="Girl in a jacket" width="150" height="300">
-    <img src="https://github.com/zobaer53/Educational-App/blob/master/4.jpg" alt="Girl in a jacket" width="150" height="300">
-     <img src="https://github.com/zobaer53/Educational-App/blob/master/5.jpg" alt="Girl in a jacket" width="150" height="300">
-      <img src="https://github.com/zobaer53/Educational-App/blob/master/6.jpg" alt="Girl in a jacket" width="150" height="300">
-       <img src="https://github.com/zobaer53/Educational-App/blob/master/7.jpg" alt="Girl in a jacket" width="150" height="300">
-        <img src="https://github.com/zobaer53/Educational-App/blob/master/8.jpg" alt="Girl in a jacket" width="150" height="300">
-         <img src="https://github.com/zobaer53/Educational-App/blob/master/9.jpg" alt="Girl in a jacket" width="150" height="300">
-          <img src="https://github.com/zobaer53/Educational-App/blob/master/10.jpg" alt="Girl in a jacket" width="150" height="300">
-           <img src="https://github.com/zobaer53/Educational-App/blob/master/11.jpg" alt="Girl in a jacket" width="150" height="300">
-            <img src="https://github.com/zobaer53/Educational-App/blob/master/12.jpg" alt="Girl in a jacket"width="150" height="300">
-             <img src="https://github.com/zobaer53/Educational-App/blob/master/13.jpg" alt="Girl in a jacket" width="150" height="300">
-              <img src="https://github.com/zobaer53/Educational-App/blob/master/14.jpg" alt="Girl in a jacket" width="150" height="300">
-</p>
+## Screenshots
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/1.jpg"/></td>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/2.jpg"/></td>
+       <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/3.jpg"/></td>
+    </tr>
+    <tr>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/4.jpg"/></td>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/5.jpg"/></td>
+       <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/6.jpg"/></td>
+    </tr>
+    <tr>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/7.jpg"/></td>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/8.jpg"/></td>
+       <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/9.jpg"/></td>
+    </tr>
+     <tr>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/10.jpg"/></td>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/11.jpg"/></td>
+       <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/12.jpg"/></td>
+    </tr>
+     <tr>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/13.jpg"/></td>
+      <td width="1%"><img src="https://github.com/zobaer53/Educational-App/blob/master/14.jpg"/></td>
+    </tr>
+  </tbody>
+</table>
